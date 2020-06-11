@@ -1,0 +1,18 @@
+{
+  "name": "amazing_things_with_node",
+  "version": "1.0.0",
+  "description": "Amazing things with Node",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "Ayomide Ibosiola",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^8.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
